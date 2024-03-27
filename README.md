@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahek Gupta</h1>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="200px" height="200px" />
+
 - 📚 Education: BTech in Computer Science and Business Systems (CSBS) from SVKM NMIMS
 - 🎵 Hobbies: Dancing and singing
 - 📊 Current Focus: Learning Business Analytics
