@@ -16,4 +16,4 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/mahek-gupta-aa49ab21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahek-gupta-aa49ab21b" height="30" width="40" /></a>
 </p>
 
-![mahekgupta981's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahekgupta981&theme=react&show_icons=true&hide_border=true&layout=compact)
+![mahekgupta981's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahekgupta981&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
